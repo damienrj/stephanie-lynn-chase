@@ -58,10 +58,12 @@ permalinks:
 
 menu:
   main:
-    - name: photos
+    - name: Photos
       url: /photos/
       weight: 1
-    - name: nature
-      url: /tags/nature/
-      weight: 3
- 
+    - name: Donations
+      url: /donate/
+      weight: 2
+    # - name: nature
+    #   url: /tags/nature/
+    #   weight: 3
