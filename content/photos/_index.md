@@ -1,0 +1,6 @@
+---
+title: photos
+url: photos
+---
+
+
