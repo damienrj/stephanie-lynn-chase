@@ -12,7 +12,7 @@ images:
 title: Stephanie and her niece Gemma!
 # date: 2022-07-23
 tags:
-- photos # homepage
+- home # homepage
 - family
 - archive # all posts
 ---

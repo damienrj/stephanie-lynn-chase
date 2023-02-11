@@ -35,7 +35,7 @@ params:
     #   url: 'https://linkedin.bora.sh/in/eternity'
   homepage: "/photos" # homepage link, mostly same with menu.main[0]
   specialPages:
-    - photos
+    - home
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
@@ -54,16 +54,19 @@ taxonomies:
   tag: tags
 
 permalinks:
-  photos: ":filename/"
+  home: ":filename/"
 
 menu:
   main:
-    - name: photos
-      url: /photos/
+    - name: home
+      url: /home/
       weight: 1
     - name: donations
       url: /donate/
       weight: 2
+    - name: memories
+      url: https://link.inmemori.com/VOocJq
+      weight: 3
     - name: family
       url: /tags/family
     - name: travel

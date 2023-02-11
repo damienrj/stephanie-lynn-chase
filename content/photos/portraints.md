@@ -15,7 +15,7 @@ images:
 title: Family Portraits
 # date: 2022-07-23
 tags:
-- photos # homepage
+- home # homepage
 - portraits
 - family
 - archive # all posts
