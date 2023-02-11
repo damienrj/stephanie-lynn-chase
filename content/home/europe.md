@@ -9,15 +9,15 @@ images:
 - /images/Europe/europe_6.JPG
 - /images/Europe/europe_7.JPG
 - /images/Europe/europe_8.JPG
-- /images/Europe/europe_9.JPG
-- /images/Europe/europe_10.JPG
-- /images/Europe/europe_11.JPG
-- /images/Europe/europe_12.JPG
-- /images/Europe/europe_13.JPG
-- /images/Europe/europe_14.JPG
-- /images/Europe/europe_15.JPG
-- /images/Europe/europe_16.JPG
-- /images/Europe/europe_17.JPG
+- /images/Europe/europe_9.jpg
+- /images/Europe/europe_10.jpg
+- /images/Europe/europe_11.jpg
+- /images/Europe/europe_12.jpg
+- /images/Europe/europe_13.jpg
+- /images/Europe/europe_14.jpg
+- /images/Europe/europe_15.jpg
+- /images/Europe/europe_16.jpg
+- /images/Europe/europe_17.jpg
 
   
 title: Family Trip to Europe
