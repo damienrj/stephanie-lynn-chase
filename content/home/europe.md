@@ -18,7 +18,11 @@ images:
 - /images/Europe/europe_15.jpg
 - /images/Europe/europe_16.jpg
 - /images/Europe/europe_17.jpg
-
+- /images/Europe/europe_18.JPG
+- /images/Europe/europe_19.JPG
+- /images/Europe/europe_20.JPG
+- /images/Europe/europe_21.JPG
+- /images/Europe/europe_22.JPG
   
 title: Family Trip to Europe
 # date: 2022-07-23
